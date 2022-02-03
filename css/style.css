@@ -253,3 +253,41 @@ p{
 
 
 /* end of footerh */
+
+
+
+
+/* about page */
+
+.info-right {
+    width:50%;
+    min-height:100%;
+    float:right;
+
+}
+
+
+.info-right img {
+    display:block;
+    width: 70%;
+    margin:auto;
+
+}
+
+
+
+ .info-left {
+    float:left;
+    width:50%;
+    min-height:100%;
+
+}
+
+
+
+
+
+
+
+
+/* end about */
