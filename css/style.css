@@ -99,6 +99,10 @@ p{
     color:#333;
     background:#f7c08a;
 }
+
+.clr{
+    clear:both;
+}
 /* end */
 
 /* navbar */
@@ -243,6 +247,8 @@ p{
 #main-footer{
     text-align:center;
     background:#444;
+    color:#fff;
+    padding:20px;
 }
 
 
