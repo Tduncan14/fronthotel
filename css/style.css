@@ -122,6 +122,7 @@ p{
 
 .l-heading{
     font-size:40px;
+    line-height:1.2;
 }
 
 /* end */
@@ -206,7 +207,7 @@ p{
 /* Home info */
 
 #home-info{
-    height:400px;
+    height:450px;
 }
 
 
@@ -336,7 +337,7 @@ p{
 
 
 #testimonals{
-    height:600px;
+    height:100%;
     background:url('../img/test-bg.jpg') no-repeat center center/cover;
     padding-top:100px;
 }
